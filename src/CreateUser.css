@@ -1,0 +1,21 @@
+.form{
+    background-color: cadetblue;
+    border: 2px solid black;
+    width:500px;
+    margin-top: 140px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#f1,#f2,#f3{
+    width:200px;
+    height:30px;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+#f4{
+    width:150px;
+    height:30px;
+    border-radius: 7px;
+}
